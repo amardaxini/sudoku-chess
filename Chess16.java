@@ -1,4 +1,7 @@
-
+/*
+ * @author = Amar Daxini
+ * Email = amardaxini@gmail.com
+ */
 import java.awt.*;
 import javax.swing.*;
 import java.awt.Image.*;

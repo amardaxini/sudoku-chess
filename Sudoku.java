@@ -1,4 +1,7 @@
-
+/*
+ * @author = Amar Daxini
+ * Email = amardaxini@gmail.com
+ */
 import java.io.*;
 
 class Sudoku {
